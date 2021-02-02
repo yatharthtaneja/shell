@@ -1,11 +1,11 @@
 # shell
-How to run
+#How to run
 Just run make all command in the directory Assignment1/1.2 and ignore the warnings.
 All the internal commands can be implemented without the fork option , description of fork and
 wait is provided in the previous assignment.
 The execv() command takes the address of child and the command array as input and runs the
 separate .c file
-Internal commands
+#Internal commands
 
 echo :
 Options : 1. -n : do not output the trailing newline
