@@ -1,0 +1,24 @@
+cd ..
+ls 
+ls -1 1.2
+echo -n hello \n world
+echo -e "hello\tworld"
+pwd -L
+cd 1.2
+ls 1.2
+cd ..
+cat -b test1.txt test.txt
+cat a.txt
+date
+date -u
+date -I
+date +%b
+mkdir x y z
+mkdir -p x/y/z
+ls x/y
+history 10
+cd x
+rm -d y/z
+cd .. 
+rm -i test2.txt
+exit
